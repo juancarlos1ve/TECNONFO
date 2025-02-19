@@ -1,0 +1,12 @@
+Esta instalación fue simplificada de la siguiente manera:
+
+copie la carpeta TECNOINFO en la raiz del disco C y ejecute el archivo inventario.exe
+
+USUARIO:SENIAT
+PASSWORD:SENIAT
+
+
+https://github.com/juancarlos1ve/TECNONFO
+
+
+Juan Carlos López Gil Telefono: 0424-5689717
